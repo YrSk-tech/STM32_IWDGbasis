@@ -8,6 +8,9 @@ This application uses an Independent Watchdog (IWDG) to monitor whether the prog
 ## Independent Watchdog (IWDG)
 ![image](https://github.com/user-attachments/assets/00557572-1e2e-4269-a4ca-5bef07a66879)
 
+## Clock Configuration 
+![image](https://github.com/user-attachments/assets/a55f8dd9-41fd-4032-9bdd-23918c02e77a)
+
 ## Photo example
 
 ![image](https://github.com/user-attachments/assets/ee3ee04a-fb6d-4e08-b990-b7d2b053a9e8)
